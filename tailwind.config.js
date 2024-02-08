@@ -4,9 +4,14 @@
  */
 
 module.exports = {
-  content: ["./app/**/*/.{jsx,tsx}", "./components/**/*/.{jsx,tsx}"],
+  content: ["./app/**/*.{jsx,tsx}", "./components/**/*.{jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        syne: ["var(--font-syne)", "sans-serif"],
+        rubik: ["var(--font-rubik)", "sans-serif"],
+      },
+    },
   },
   plugins: [],
 };

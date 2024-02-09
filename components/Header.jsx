@@ -8,11 +8,15 @@ export default function Header() {
       <div>
         <nav className='flex justify-between'>
           <div>
-            <img src='/images/logo.png' alt='' className='w-32' />
+            <Link href='./'>
+              <img src='/images/logo.png' alt='' className='w-32' />
+            </Link>
           </div>
           <ul className='flex flex-row font-normal opacity-50 gap-x-10 font-rubik'>
             <li>
-              <Link href='./'>Home</Link>
+              <Link href='./' className='hover:text-white'>
+                Home
+              </Link>
             </li>
             <li>
               <Link href='/about'>About Me</Link>

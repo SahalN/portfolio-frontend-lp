@@ -22,7 +22,7 @@ export default function HomePage() {
       <div className='relative flex flex-row gap-56 py-48 place-items-center'>
         <div className='flex-1'>
           <h1 className='py-8 text-5xl font-bold font-syne'>
-            Let’s get know about me closer
+            Let's get know about me closer
           </h1>
           <p className='pb-8'>
             Aaronn is a New York-based visual designer focusing on branding and

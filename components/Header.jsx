@@ -8,9 +8,9 @@ export default function Header() {
       <div>
         <nav className='flex justify-between'>
           <div>
-            <img src='' alt='' />
+            <img src='/images/logo.png' alt='' className='w-32' />
           </div>
-          <ul className='flex flex-row gap-x-10 font-rubik font-normal opacity-50'>
+          <ul className='flex flex-row font-normal opacity-50 gap-x-10 font-rubik'>
             <li>
               <Link href='./'>Home</Link>
             </li>
@@ -25,20 +25,6 @@ export default function Header() {
             </li>
           </ul>
         </nav>
-      </div>
-      {/*  */}
-      <div className='relative flex flex-col w-full justify-center flex-wrap '>
-        <div className='absolute -right-36 -top-16 -z-10 '>
-          <img src='/images/Vector 8.png' alt='' className='w-10/12 ' />
-        </div>
-        <div>
-          <h1 className=' text-7xl font-syne text-center mx-14 py-36 font-bold '>
-            Adaptive Logo Design for Your Brand
-          </h1>
-        </div>
-        <div className='flex justify-center py-8'>
-          <button>Explore Works</button>
-        </div>
       </div>
     </>
   );

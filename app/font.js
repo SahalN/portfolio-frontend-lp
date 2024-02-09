@@ -9,5 +9,5 @@ export const syne = Syne({
 export const rubik = Rubik({
   subsets: ["latin"],
   variable: "--font-rubik",
-  weight: "400",
+  weight: ["400", "500", "600"],
 });

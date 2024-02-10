@@ -5,7 +5,7 @@ export default function About() {
     <>
       <div className='relative pb-20 border-b-2 pt-44'>
         <div className='absolute -left-[500px] -top-14 -z-10 '>
-          <img src='/images/Vector 8.png' alt='' className='w-10/12 ' />
+          <img src='/images/vectorDelapan.png' alt='' className='w-10/12 ' />
         </div>
         <div>
           <h1 className='text-7xl font-syne'>About Me</h1>
@@ -34,10 +34,10 @@ export default function About() {
       {/*  */}
       <div className='flex flex-row justify-between gap-4 pt-5 pb-44'>
         <div>
-          <img src='/images/g2.png' alt='' />
+          <img src='/images/profilePicture1.png' alt='' />
         </div>
         <div>
-          <img src='/images/g1.png' alt='' />
+          <img src='/images/profilePicture2.png' alt='' />
         </div>
       </div>
       {/*  */}

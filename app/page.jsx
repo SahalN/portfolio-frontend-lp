@@ -6,7 +6,7 @@ export default function HomePage() {
       {/*  */}
       <div className='relative flex flex-col flex-wrap justify-center w-full '>
         <div className='absolute -right-36 -top-16 -z-10 '>
-          <img src='/images/Vector 8.png' alt='' className='w-10/12 ' />
+          <img src='/images/vectorDelapan.png' alt='' className='w-10/12 ' />
         </div>
         <div>
           <h1 className='font-bold text-center text-7xl font-syne mx-14 py-36'>
@@ -34,16 +34,16 @@ export default function HomePage() {
           </button>
         </div>
         <div className='flex-1'>
-          <img src='/images/Component 1.png' alt='' />
+          <img src='/images/komponenSatu.png' alt='' />
         </div>
         <div className='absolute -left-72 top-42 -z-10 '>
-          <img src='/images/Vector 8.png' alt='' className='w-10/12 ' />
+          <img src='/images/vectorDelapan.png' alt='' className='w-10/12 ' />
         </div>
       </div>
       {/*  */}
       <div className='relative flex flex-col py-10 place-items-center'>
         <div className='absolute -right-28 -top-44 -z-10 '>
-          <img src='/images/Vector 8.png' alt='' className='w-10/12 ' />
+          <img src='/images/vectorDelapan.png' alt='' className='w-10/12 ' />
         </div>
         <div>
           <h1 className='pb-5 text-center text-7xl font-syne'>
@@ -60,7 +60,7 @@ export default function HomePage() {
       <div className='grid grid-cols-2 gap-2 pb-28 place-items-center'>
         <div className='mb-20'>
           <div>
-            <img src='/images/img.png' alt='' />
+            <img src='/images/imageSatu.png' alt='' />
           </div>
           <div className='flex flex-row gap-4 py-8 place-items-center'>
             <div>
@@ -69,7 +69,7 @@ export default function HomePage() {
               </h2>
             </div>
             <div>
-              <img src='/images/Line 3.png' alt='' />
+              <img src='/images/lineTiga.png' alt='' />
             </div>
           </div>
           <div className='flex flex-col gap-4 '>
@@ -85,7 +85,7 @@ export default function HomePage() {
         </div>
         <div className='mb-20'>
           <div>
-            <img src='/images/img2.png' alt='' />
+            <img src='/images/imageDua.png' alt='' />
           </div>
           <div className='flex flex-row gap-4 py-8 place-items-center'>
             <div>
@@ -94,7 +94,7 @@ export default function HomePage() {
               </h2>
             </div>
             <div>
-              <img src='/images/Line 3.png' alt='' />
+              <img src='/images/lineTiga.png' alt='' />
             </div>
           </div>
           <div className='flex flex-col gap-4 '>
@@ -110,14 +110,14 @@ export default function HomePage() {
         </div>
         <div className='mb-20'>
           <div>
-            <img src='/images/img4.png' alt='' />
+            <img src='/images/imageTiga.png' alt='' />
           </div>
           <div className='flex flex-row gap-4 py-8 place-items-center'>
             <div>
               <h2 className='text-2xl font-semibold font-syne'>NFT Glimps</h2>
             </div>
             <div>
-              <img src='/images/Line 3.png' alt='' />
+              <img src='/images/lineTiga.png' alt='' />
             </div>
           </div>
           <div className='flex flex-col gap-4 '>
@@ -133,7 +133,7 @@ export default function HomePage() {
         </div>
         <div className='mb-20'>
           <div>
-            <img src='/images/img3.png' alt='' />
+            <img src='/images/imageEmpat.png' alt='' />
           </div>
           <div className='flex flex-row gap-4 py-8 place-items-center'>
             <div>
@@ -142,7 +142,7 @@ export default function HomePage() {
               </h2>
             </div>
             <div>
-              <img src='/images/Line 3.png' alt='' />
+              <img src='/images/lineTiga.png' alt='' />
             </div>
           </div>
           <div className='flex flex-col gap-4 '>
